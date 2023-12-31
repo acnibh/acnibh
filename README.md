@@ -1,4 +1,5 @@
-
+### WELCOME TO MY PAGE 👋👋👋
+My name is Tran Quoc Anh. I am Currently studying at University of Economics Ho Chi Minh City, majoring in Business Administration. I am interested in the following topics: Data is the oil field of the 21st century, how do they create big impact for businesses?.
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tran.quocanh.967422)
 
